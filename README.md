@@ -5,7 +5,9 @@ Well, from the Business point of view of a Bank — they would likely wish to id
 
 In this project the following have been implemented
 
-Used Bank Customer Churn dataset. Used Dataprep, Seaborn and Pandas for Exploratory Data Analysis(EDA) and used one-hot encoding for Categorical Columns.
+Used Bank Customer Churn dataset available on Kaggle.
+
+Used Dataprep, Seaborn and Pandas for Exploratory Data Analysis(EDA) and used one-hot encoding for Categorical Columns.
 
 Used Extra Tree Classifier and Forward/Backward Feature Selection method for feature selection.  Also implemented the ML models on features selected through Recursive Feature Elimination with cross-validation (RFECV) for comparing the results.
 
